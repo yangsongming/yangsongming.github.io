@@ -16,15 +16,15 @@ main:
     
   # - title: "Honors"
   #   url: /portfolio/
-
-    - title: "Honors"
-    url: /year-archive/    
+  
+  - title: "Honors"
+    url: /portfolio/
         
   # - title: "Blogs"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
