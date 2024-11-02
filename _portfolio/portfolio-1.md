@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/afa78038-7c53-4a8b-8667-edcc579cfae9)---
 title: "ArkTS 教程"
 excerpt: "基于HarmonyOS的ArkTS开发项目————虎溪Helper<br/><img src='/images/blogs1.png'>"
 collection: portfolio
