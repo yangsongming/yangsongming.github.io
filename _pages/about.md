@@ -16,4 +16,4 @@ redirect_from:
 
 [Github](https://github.com/yangsongming) 
 
-[EMAIL](1264116970@qq.com)
+[Email](mailto:1264116970@qq.com)
