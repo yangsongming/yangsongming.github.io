@@ -12,10 +12,10 @@ main:
     url: /talks/    
 
   - title: "Prizes"
-    url: /portfolio/
+    url: /teaching/
     
   - title: "Honors"
-    url: /teaching/    
+    url: /portfolio/    
         
   - title: "Blogs"
     url: /year-archive/
