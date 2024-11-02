@@ -41,19 +41,19 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Papers
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Patents
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Prizes
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
