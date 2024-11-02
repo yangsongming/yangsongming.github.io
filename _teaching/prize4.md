@@ -1,6 +1,8 @@
 ---
-title: "2024中国大学生计算机设计大赛"
-level: 国家级二等奖
+title: "2023美国大学生数学建模竞赛"
 permalink: /teaching/prize4
-date: 2024-08-12
 ---
+
+date: 2023-07
+
+level: Meritorious Winner 一等奖
