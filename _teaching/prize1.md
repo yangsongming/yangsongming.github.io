@@ -1,6 +1,7 @@
 ---
-title: "2024中国大学生计算机设计大赛"
-level: 国家级二等奖
+title: "中国机器人与人工智能大赛"
 permalink: /teaching/prize1
-date: 2024-08-12
 ---
+
+level: 国家级一等奖
+date: 2024-08
