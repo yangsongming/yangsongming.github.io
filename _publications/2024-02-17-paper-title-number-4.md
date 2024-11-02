@@ -3,7 +3,8 @@ title: "TPMA-Net: Topology-Preserving Multi-Scale Aggregation Network for Liver 
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This is my first conference paper, which utilizes deep learning neural network technology to accurately segment the liver'
+excerpt: 'This is my first conference paper, which utilizes deep learning neural network technology to accurately segment the liver 
+这是我的第一篇会议论文，它利用深度学习神经网络技术来准确分割肝脏'
 date: 2024-7-31
 venue: 'International Conference On Intelligent Computing'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-97-5692-6_40'
