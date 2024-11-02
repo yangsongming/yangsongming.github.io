@@ -1,6 +1,6 @@
 ---
 title: "ArkTS 教程"
-excerpt: "基于HarmonyOS的ArkTS开发项目————虎溪Helper<br/><img src='/images/blogs1.png'>"
+excerpt: "基于HarmonyOS的ArkTS开发项目————虎溪Helper <br> 欢迎您访问我的B站获取教学视频！https://space.bilibili.com/542957758?spm_id_from=333.1007.0.0<br/><img src='/images/blogs1.png'>"
 collection: portfolio
 ---
 
