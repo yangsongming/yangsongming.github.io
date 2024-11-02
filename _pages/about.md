@@ -15,3 +15,5 @@ redirect_from:
 您可以在这里获取我的PDF版本简历: [YSM's Curriculum Vitae](../assets/1.pdf).
 
 [Github](https://github.com/yangsongming) 
+
+[EMAIL](1264116970@qq.com)
