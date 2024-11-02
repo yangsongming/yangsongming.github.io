@@ -14,11 +14,14 @@ main:
   - title: "Prizes"
     url: /teaching/
     
-  - title: "Honors"
-    url: /portfolio/    
+  # - title: "Honors"
+  #   url: /portfolio/
+
+    - title: "Honors"
+    url: /year-archive/    
         
-  - title: "Blogs"
-    url: /year-archive/
+  # - title: "Blogs"
+  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
