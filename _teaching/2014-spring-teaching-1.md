@@ -6,7 +6,3 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "Finalist特等奖提名"
 date: 2024-05-03
 ---
-
-date:2024-05
-
-level:Finalist特等奖提名
